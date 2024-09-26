@@ -1,3 +1,3 @@
 # Hello There!
 
-This is my blog post
+This is my _blog_ post
